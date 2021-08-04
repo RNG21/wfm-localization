@@ -42,7 +42,7 @@
     "app.ignore_list.already_ignored": "已加入黑名單。",
     "app.post_order.item_not_exist": "物品不存在。",
     "app.post_order.limit_exceeded": "只有贊助人能擁有超過100筆訂單。",
-    "app.post_order.more_than_5_of_the_same_item": "您不能為同一件物品創建超過3筆訂單。",
+    "app.post_order.more_than_5_of_the_same_item": "您不能為同一件物品創建超過5筆訂單。",
     "app.post_order.already_created_no_duplicates": "此訂單已存在。",
     "app.post_order.item_not_tradable": "Item is not tradable now (reload the site)",
     "app.edit_order.order_not_exist": "訂單不存在。",
