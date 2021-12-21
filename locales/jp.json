@@ -17,7 +17,7 @@
     "app.theme.light": "ライト",
     "app.theme.dark": "ダーク",
     "app.theme.contrast": "High Contrast",
-	"app.theme.water":	"Pure Water",
+    "app.theme.water": "Pure Water",
     "app.theme.system": "System preference",
 
     "app.review.error_same_user": "Can't write review about yourself.",
