@@ -55,7 +55,7 @@
     "app.post_order.item_not_tradable": "トレード不可の商品です (サイトを再読み込みしてください)",
     "app.edit_order.order_not_exist": "検索の注文は存在していません。",
     "app.edit_order.item_not_exist": "アイテムは存在していません。",
-    "app.edit_order.already_existing_no_duplicates": "出品は既に存在しています。",
+    "app.edit_order.already_existing_no_duplicates": "この注文は既に存在しています。",
     "app.delete_order.order_not_exist": "検索の注文は存在していません。",
     "app.close_order.order_not_exist": "検索の注文は存在していません。",
 
