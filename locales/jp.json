@@ -418,7 +418,7 @@
     "app.auction.button.findSimilar": "類似の項目を検索する",
     "app.auction.button.placeBid": "入札する",
     "app.auction.button.changeBid": "入札額を変更する",
-    "app.auction.button.leave": "入札を取り消し",
+    "app.auction.button.leave": "入札を取り消す",
     "app.auction.sorting.label": "並べ替え",
     "app.auction.sorting.status": "オンライン状態",
     "app.auction.sorting.bid": "入札額",
