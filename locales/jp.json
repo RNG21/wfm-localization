@@ -3,6 +3,7 @@
     "app.general.title": "Warframe Market",
     "app.general.description": "Warframe Marketでは、そのアイテムがVault内にあるかどうかに関わらずWarframeセット、パーツ、武器、Mod、レリック、設計図、Capturaシーン、Rivenとクバ・リッチを売買できます。",
     "app.general.meta.tags": "warframe,market,購入,販売,トレード,交易,mod,設計図,syndicate,レリック,order,auction,wts,wtb,sales,worth,platinum,価格,checking",
+
     "app.form.field_required": "必須項目です。",
     "app.form.can_not_be_null": "空白にはできません。",
     "app.form.invalid": "入力内容は無効です。",
@@ -12,21 +13,25 @@
     "app.form.not_an_int": "整数を入力してください。",
     "app.form.not_a_bool": "Should be True\\False (Bool)",
     "app.form.too_many_requests": "連続してログイン\\登録に失敗しました。1分後に再度お試しください。",
+
     "app.theme.light": "ライト",
     "app.theme.dark": "ダーク",
     "app.theme.contrast": "High Contrast",
     "app.theme.water": "Pure Water",
     "app.theme.system": "System preference",
+
     "app.review.error_same_user": "自分にレビューを書けません。",
     "app.review.already_exist": "レビューは既に存在しています。",
     "app.review.not_exist": "レビューは存在していません。",
     "app.review.limit_exceeded": "レビューこれ以上書けません。 (15個\\一日)。",
+
     "app.account.passwords_mismatch": "新しいパスワードは一致しません。",
     "app.account.password_too_short": "パスワードは短すぎです。",
     "app.account.password_invalid": "無効なパスワードです",
     "app.account.email_already_exist": "メールアドレスは既に登録されています。",
     "app.account.email_not_exist": "メールアドレスは登録されていません。",
     "app.account.recaptcha_missing_or_incorrect": "Recaptchaが見つからない、または無効。",
+
     "app.errors.unauthorized": "不正アクセスです, ログインしてください。",
     "app.errors.permission_denied": "権限がありません",
     "app.errors.not_verified": "まずはアカウントを認証してください。",
@@ -35,6 +40,7 @@
     "app.errors.item_not_found": "アイテムが見つかりません。",
     "app.errors.last_service": "Can't remove the last service. (for the technical reasons)",
     "app.errors.banned": "ご利用のアカウントは保留しています。(理由はプロフィールページでご確認ください。)",
+
     "app.chat.user_not_exist": "ユーザーは存在していません。",
     "app.chat.ignores_you": "ユーザーはあなたをブロックしています。",
     "app.chat.ignored_by_you": "ユーザーはあなたにブロックされています。",
@@ -52,6 +58,7 @@
     "app.edit_order.already_existing_no_duplicates": "この注文は既に存在しています。",
     "app.delete_order.order_not_exist": "注文は存在していません。",
     "app.close_order.order_not_exist": "注文は存在していません。",
+
     "app.button.edit": "編集",
     "app.button.remove": "削除",
     "app.button.accept": "接受",
@@ -67,15 +74,18 @@
     "app.button.googleAlt": "Google Playで手に入るよう",
     "app.button.iosAlt": "App Storeからダウンロード",
     "app.button.installPwa": "アプリをインストールする",
+
     "app.platforms.xbox": "Xbox",
     "app.platforms.pc": "PC",
     "app.platforms.ps4": "PS4",
     "app.platforms.switch": "任天堂スイッチ",
+
     "app.polarity.madurai": "Madurai",
     "app.polarity.vazarin": "Vazarin",
     "app.polarity.naramon": "Naramon",
     "app.polarity.zenurik": "Zenurik",
     "app.polarity.any": "すべて",
+
     "app.items.groups.primary": "プライマリ",
     "app.items.groups.secondary": "セカンダリ",
     "app.items.groups.melee": "近接",
@@ -83,18 +93,21 @@
     "app.items.groups.sentinel": "センチネル",
     "app.items.groups.kitgun": "Kitgun",
     "app.items.groups.archgun": "アークウイングガン",
+
     "app.user.status.ingame": "ゲーム内でオンライン",
     "app.user.status.online": "オンライン",
     "app.user.status.offline": "オフライン",
     "app.user.status.invisible": "オフライン表示",
     "app.user.status.connecting": "接続中...",
     "app.user.status.lastSeen": "最終オンライン時間: ",
+
     "app.order.marker.wts": "wts",
     "app.order.marker.sold": "売却済",
     "app.order.marker.wts.long": "売りたい",
     "app.order.marker.wtb": "wtb",
     "app.order.marker.bought": "購入済",
     "app.order.marker.wtb.long": "買いたい",
+
     "app.menu.menu": "メニュー",
     "app.menu.browse_patforms": "ブラウズ",
     "app.menu.trading": "Trading",
@@ -114,7 +127,9 @@
     "app.menu.settings": "設定",
     "app.menu.signOut": "ログアウト",
     "app.menu.signIn": "ログイン",
+
     "app.searchField.placeholder": "検索...",
+
     "app.footer.links": "関連リンク",
     "app.footer.faq": "F.A.Q.",
     "app.footer.terms": "利用規約",
@@ -131,6 +146,7 @@
     "app.footer.lookingFor": "Looking for developer",
     "app.footer.online.total": "総オンラインユーザー数",
     "app.footer.online.traders": "オンライトレーダー数",
+
     "app.filters.header": "検索フィルター",
     "app.filters.platinum": "プラチナ",
     "app.filters.orderType": "注文タイプ",
@@ -154,6 +170,7 @@
     "app.filters.auction.type": "種類",
     "app.filters.auction.state": "状態",
     "app.filters.auction.category": "種別",
+
     "app.regions.en": "国際 (英語)",
     "app.regions.ru": "ロシア",
     "app.regions.ko": "韓国",
@@ -162,13 +179,16 @@
     "app.regions.de": "ドイツ",
     "app.regions.pl": "ポーランド",
     "app.regions.zh": "中国",
+
     "app.mods.common": "コモン",
     "app.mods.uncommon": "アンコモン",
     "app.mods.rare": "レア",
     "app.mods.legendary": "レジェンダリー",
     "app.mods.peculiar": "Peculiar",
     "app.mods.riven": "Riven",
+
     "app.quirk.notSet": "Not Set",
+
     "app.sort.label": "並べ替え",
     "app.sort.itemName": "アイテム名",
     "app.sort.createDate": "作成日時",
@@ -179,11 +199,13 @@
     "app.sort.quantity": "個数",
     "app.sort.mod_rank": "ランク",
     "app.sort.subtype": "種別",
+
     "app.mostRecent.title": "Warframe Market | 新着 {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4} switch {| 任天堂スイッチ} other {}}",
     "app.mostRecent.header": "新着",
     "app.mostRecent.notFound": "注文が見つかりません",
     "app.mostRecent.showMore": "もっと表示",
     "app.mostRecent.showLess": "表示を減らす",
+
     "app.auctions.createAuction": "オークションを作成する",
     "app.auctions.createAuction.attribute.seconds": "sec",
     "app.auctions.category.title": "種類",
@@ -191,6 +213,7 @@
     "app.auctions.category.unveiledRiven": "Riven MOD",
     "app.auctions.category.kuvaLich": "クバ・リッチ",
     "app.auctions.category.sisterOfParvos": "Sisters of Parvos",
+
     "app.auctions.tips.sellOrder": "売り注文",
     "app.auctions.tips.participant": "あなたはこのオークションの入札者です。",
     "app.auctions.tips.own": "あなたはこのオークションの所有者です",
@@ -201,46 +224,59 @@
     "app.auctions.tips.auctionType.buyout": " - 即決価格があります。",
     "app.auctions.tips.auctionType.sellOrder.title": "売り注文",
     "app.auctions.tips.auctionType.sellOrder": " - 単なる売り注文であり、オークションではなく、入札もありません。",
+
     "app.auctions.alert.reminder": "It is recommended to {reminderLink}, in order to be always up to date with your auctions.",
     "app.auctions.alert.reminder.link": "デスクトップ通知を有効にする",
+
     "app.auctions.tabs.mostPopular": "人気",
     "app.auctions.tabs.mostRecent": "最新",
     "app.auctions.tabs.search": "検索",
     "app.auctions.tabs.participatedIn": "入札中オークション一覧",
     "app.auctions.tabs.createdByMe": "所有オークション一覧",
+
     "app.auctions.search.riven.title": "{itemName}のRiven Modのオークション一覧 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| PS4 } switch {| 任天堂スイッチ } other {}}| Warframe Market",
     "app.auctions.search.riven.title.attributeOnly": "{attributeName}のステータスを持つRiven Mod一覧 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| PS4 } switch {| 任天堂スイッチ } other {}}| Warframe Market",
     "app.auctions.search.riven.meta.description": "warframe.marketで{itemName}のRiven modを売買する。 | 最高価格: {minPrice}プラチナ ⬌ 最低価格: {maxPrice}プラチナ | 総注文数: {auctionsCount}",
     "app.auctions.search.riven.meta.description.noPrices": "warframe.marketで{itemName}のRiven modを売買する。まだ{itemName}のオークションはありません。一番最初に作成しましょう！",
     "app.auctions.search.riven.meta.description.attributeOnly": "{attributeName}のステータスを持つRiven Modを売買する。warframe.marketで簡単にできます。",
     "app.auctions.search.riven.meta.tags": "riven,オークション",
+
     "app.auctions.search.lich.title.ephemeraAndWeapon": "{weaponName}と{ephemeraName}を持つのクバ・リッチ一覧 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.lich.title.weaponOnly": "{weaponName}を持つのクバ・リッチ一覧 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.lich.meta.description.weaponOnly": "warframe.marketで{weaponName}を売買する。 | 最高価格: {minPrice}プラチナ ⬌ 最低価格: {maxPrice}プラチナ | 総注文数: {auctionsCount}",
     "app.auctions.search.lich.meta.description.weaponOnly.noPrices": "warframe.marketで{weaponName}を売買する。まだ{itemName}のオークションはありません。一番最初に作成しましょう！",
+
     "app.auctions.search.lich.title.ephemeraOnly": "{ephemeraName}を持つのクバ・リッチ一覧 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.lich.meta.description.ephemeraOnly": "warframe.marketで{ephemeraName}を売買する。 | 最高価格: {minPrice}プラチナ ⬌ 最低価格: {maxPrice}プラチナ | 総注文数: {auctionsCount}.",
     "app.auctions.search.lich.meta.description.ephemeraOnly.noPrices": "warframe.marketで{ephemeraName}を売買する。まだ{itemName}のオークションはありません。一番最初に作成しましょう！",
+
     "app.auctions.search.lich.title.elementOnly": "{elementName}ダメージのクバ・リッチ一覧 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.lich.meta.description.elementOnly": "{elementName}ダメージのクバ・リッチを売買する。 | 最高価格: {minPrice}プラチナ ⬌ 最低価格: {maxPrice}プラチナ | 総注文数: {auctionsCount}",
     "app.auctions.search.lich.meta.description.elementOnly.noPrices": "{elementName}ダメージのクバ・リッチを売買する。まだ{itemName}のオークションはありません。一番最初に作成しましょう！",
+
     "app.auctions.search.lich.meta.tags": "リッチ,オークション,クバ・リッチ",
+
     "app.auctions.search.sister.title.ephemeraAndWeapon": "{weaponName}と{ephemeraName}を持つのParvosシスターの一覧 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.sister.title.weaponOnly": "{weaponName}を持つのParvosシスターの一覧 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.sister.meta.description.weaponOnly": "warframe.marketで{weaponName}を売買する。 | 最高価格: {minPrice}プラチナ ⬌ 最低価格: {maxPrice}プラチナ | 総注文数: {auctionsCount}",
     "app.auctions.search.sister.meta.description.weaponOnly.noPrices": "warframe.marketで{weaponName}を売買する。まだ{itemName}のオークションはありません。一番最初に作成しましょう！",
+
     "app.auctions.search.sister.title.ephemeraOnly": "{ephemeraName}を持つのParvosシスターの一覧 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.sister.meta.description.ephemeraOnly": "warframe.marketで{ephemeraName}を売買する。 | 最高価格: {minPrice}プラチナ ⬌ 最低価格: {maxPrice}プラチナ | 総注文数: {auctionsCount}.",
     "app.auctions.search.sister.meta.description.ephemeraOnly.noPrices": "warframe.marketで{ephemeraName}を売買する。まだ{itemName}のオークションはありません。一番最初に作成しましょう！",
+
     "app.auctions.search.sister.title.elementOnly": "{elementName}ダメージのParvosシスターの一覧 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.sister.meta.description.elementOnly": "{elementName}ダメージのParvosシスターを売買する。 | 最高価格: {minPrice}プラチナ ⬌ 最低価格: {maxPrice}プラチナ | 総注文数: {auctionsCount}",
     "app.auctions.search.sister.meta.description.elementOnly.noPrices": "{elementName}ダメージのParvosシスターを売買する。まだ{itemName}のオークションはありません。一番最初に作成しましょう！",
+
     "app.auctions.search.sister.meta.tags": "シスター,オークション,Parvosシスター",
+
     "app.auctions.search.label.category": "種別",
     "app.auctions.search.label.type": "種類",
     "app.auctions.search.label.sortBy": "並べ替え",
     "app.auctions.search.option.sort.priceAsc": "価格 (昇順)",
     "app.auctions.search.option.sort.priceDesc": "価格 (降順)",
+
     "app.auctions.search.nemesis.label.quirk": "性格",
     "app.auctions.search.nemesis.placeholder.quirk": "すべて",
     "app.auctions.search.nemesis.label.element": "ダメージタイプ",
@@ -255,6 +291,7 @@
     "app.auctions.search.nemesis.ephemera.no": "なし",
     "app.auctions.search.nemesis.option.sort.damageDesc": "ダメーじボーナス (降順)",
     "app.auctions.search.nemesis.option.sort.damageAsc": "ダメーじボーナス (昇順)",
+
     "app.auctions.search.riven.label.weaponName": "武器名",
     "app.auctions.search.riven.placeholder.weapon": "すべて",
     "app.auctions.search.riven.label.positiveAttributes": "ポジティブステータス",
@@ -267,6 +304,7 @@
     "app.auctions.search.riven.label.modRank": "Modランク",
     "app.auctions.search.riven.option.sort.positiveAttrDesc": "効果 (降順)",
     "app.auctions.search.riven.option.sort.positiveAttrAsc": "効果 (昇順)",
+
     "app.auctions.search.showAdvanced": "詳細検索を表示",
     "app.auctions.search.hideAdvanced": "表示を減らす",
     "app.auctions.search.all": "すべて",
@@ -282,23 +320,28 @@
     "app.auctions.search.nemesis.warn.selectWeapon": "Please select a weapon/ephemera/element",
     "app.auctions.search.resetSearch": "リセット",
     "app.auctions.search.nothingFound": "検索条件との一致する結果が見つかりません。",
+
     "app.auctions.mostRecent.title": "Riven Mod、クバ・リッチ、Parvosシスター | 新着 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.mostRecent.meta.description": "Riven Modやクバ・リッチやParvosシスターを売買する。warframe.marketで簡単に価格情報を入手することができます。",
     "app.auctions.mostRecent.meta.tags": "riven,リッチ,シスター,parvos,クバ,オークション,人気,recent",
     "app.auctions.mostRecent.nothingFound": "まだ注文はありません。",
     "app.auctions.mostRecent.button.showMore": "もっと表示",
     "app.auctions.mostRecent.button.showLess": "表示を減らす",
+
     "app.auctions.mostPopular.title": "Riven Mod、クバ・リッチ、Parvosシスター | 人気の注文一覧 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.mostPopular.meta.description": "売り買い注文をお探していますか？こちらは直近4時間で人気な注文の一覧です。",
     "app.auctions.mostPopular.meta.tags": "riven,リッチ,シスター,parvos,クバ,オークション,人気",
+
     "app.auctions.participatedIn.title": "入札中のオークション一覧 | オークション",
     "app.auctions.participatedIn.meta.description": "入札中のオークション一覧です。",
     "app.auctions.participatedIn.meta.tags": "riven,オークション",
     "app.auctions.participatedIn.nothingFound": "入札しているオークションはありません。",
+
     "app.auctions.createdByMe.title": "所有オークション一覧 | オークション",
     "app.auctions.createdByMe.meta.description": "所有オークション一覧。",
     "app.auctions.createdByMe.meta.tags": "riven,オークション",
     "app.auctions.createdByMe.nothingFound": "所有しているオークションはありません。",
+
     "app.auctions.entry.removeConfirmation": "削除しますか？",
     "app.auctions.entry.state.archiving": "アーカイビング",
     "app.auctions.entry.state.private": "プライベート",
@@ -325,6 +368,7 @@
     "app.auctions.entry.topBid": "最高入札額",
     "app.auctions.entry.noBids": "入札はまだありません。",
     "app.auctions.entry.yourBid": "あなたの入札額",
+
     "app.auctions.entry.nemesis.ephemera": "エフェメラ",
     "app.auctions.entry.nemesis.damage": "ダメーじボーナス",
     "app.auctions.entry.nemesis.element": "ダメージタイプ",
@@ -333,9 +377,11 @@
     "app.auctions.entry.riven.modRank": "Modランク",
     "app.auctions.entry.riven.reRolls": "サイクル数",
     "app.auctions.entry.riven.polarity": "極性",
+
     "app.auction.riven.title": "販売中: {itemName}のRiven Mod {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auction.riven.meta.description": "Riven Modのステータス: {attributes}",
     "app.auction.riven.meta.tags": "riven,オークション",
+
     "app.auction.lich.title": "販売中: {weaponName}と{ephemeraName}を持つのクバ・リッチ {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auction.lich.title.weaponOnly": "販売中: {weaponName}を持つのクバ・リッチ {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auction.lich.meta.description": "ダメージタイプ: {elementName} | エフェメラ{havingEphemera, select, true {あり} false {なし} other {}} | ダメージボーナス: {damage}",
@@ -345,6 +391,7 @@
     "app.auction.sister.meta.description": "ダメージタイプ: {elementName} | エフェメラ{havingEphemera, select, true {あり} false {なし} other {}} | ダメージボーナス: {damage}",
     "app.auction.sister.meta.tags": "シスター,オークション,tenet",
     "app.auction.tabs.bids": "入札の一覧",
+
     "app.auction.tabs.bans": "ブラックリスト",
     "app.auction.removeConfirmation": "削除しますか？",
     "app.auction.info.label.order": "詳細情報",
@@ -393,6 +440,7 @@
     "app.auction.onPause": "このオークションは一時停止中です。",
     "app.auction.onPause.considering": "暫定落札者:",
     "app.auction.onPause.owner": "落札者を連絡してゲーム内でトレードしてください。トレードが成功した場合は右上の「終了する」ボタンをクリックしてください。{br}なんらかの理由でトレードを失敗した場合は、落札者を再選択して、またはオークションを再進行のために落札者を禁止、削除してください。{br}必要の時はページ最下部の連絡先で管理チームを連絡してください。",
+
     "app.auction.onPause.participant": "所有者が落札者を再選択または削除する可能性があるため、オークションから退出しないでください (オークションが再進行するの可能性があります).",
     "app.auction.completed": "オークションは終了しました。",
     "app.auction.completed.winnerIs": "落札者は: ",
@@ -401,16 +449,19 @@
     "app.auction.bans.button.removeBan": "禁止を解除する",
     "app.auction.clipboard.template": "/w {ingameName} Hi!",
     "app.auction.riven.modRank": "Mod Rank",
+
     "app.auction.riven.mastery": "Mastery",
     "app.auction.riven.reRolls": "Re-rolls",
     "app.auction.riven.polarity": "Polarity",
     "app.auctions.modal.title.create": "Create contract",
+
     "app.auctions.modal.title.edit": "Edit contract",
     "app.auctions.modal.button.close": "Close",
     "app.auctions.modal.stages.item": "Item Info",
     "app.auctions.modal.stages.auction": "Contract Info",
     "app.auctions.modal.stages.done": "Done",
     "app.auctions.modal.nemesis.label.quirk": "Quirk",
+
     "app.auctions.modal.nemesis.label.element": "Element",
     "app.auctions.modal.nemesis.label.damage": "Damage",
     "app.auctions.modal.nemesis.label.ephemera": "Ephemera",
@@ -418,6 +469,7 @@
     "app.auctions.modal.nemesis.ephemera.yes": "Yes",
     "app.auctions.modal.nemesis.ephemera.no": "No",
     "app.auctions.modal.riven.label.attribute": "Attribute",
+
     "app.auctions.modal.riven.label.effect": "Effect",
     "app.auctions.modal.riven.label.value": "Value",
     "app.auctions.modal.riven.label.weapon": "Weapon Name",
@@ -431,6 +483,7 @@
     "app.auctions.modal.riven.button.addAttribute": "+ Add",
     "app.auctions.modal.riven.button.removeAttribute": "X",
     "app.auctions.modal.success": "Contract was successfully created !",
+
     "app.auctions.modal.button.next": "Next",
     "app.auctions.modal.button.previous": "Back",
     "app.auctions.modal.button.post": "Create",
@@ -438,6 +491,7 @@
     "app.auctions.modal.button.openCreated": "Open newly created contract",
     "app.auctions.modal.button.update": "Update",
     "app.auctions.modal.label.privacy.order": "Visibility",
+
     "app.auctions.modal.label.privacy.auction": "Visibility",
     "app.auctions.modal.button.privacy.private": "Private",
     "app.auctions.modal.button.privacy.public": "Public",
@@ -451,6 +505,7 @@
     "app.auctions.modal.button.policy.auction": "Auction",
     "app.auctions.modal.button.policy.directSell": "Direct sale",
     "app.ws.auctions.errors.its_your_own_auction": "You can't participate in your own auction.",
+
     "app.ws.auctions.errors.banned_from_auction": "You was banned from this auction.",
     "app.ws.auctions.errors.reputation_is_to_low": "Your reputation is too low to participate in this auction.",
     "app.ws.auctions.errors.cant_remove_bid_from_closed_auction": "The auction was closed, you can't delete the bid.",
@@ -467,6 +522,7 @@
     "app.auctions.errors.top_bid_is_greater_than_buyout": "The top bid value is greater than the specified buyout value",
     "app.auctions.errors.starting_higher_than_lowet_bid": "The starting price cannot be higher than the minimum existing bid in the auction",
     "app.itemPage.orders.title": "{itemName} - Buy and Sell orders {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
+
     "app.itemPage.orders.meta.description": "Price: {price} platinum | Trading Volume: {volume} | Get the best trading offers and prices for {itemName}",
     "app.itemPage.orders.meta.description.price.notKnown": "¯\\_(ツ)_/¯",
     "app.itemPage.statistics.title": "{itemName} - Trade Statistics {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
@@ -483,6 +539,7 @@
     "app.itemPage.tabs.orders": "Orders",
     "app.itemPage.tabs.statistics": "Statistics",
     "app.tools.ducanator.title": "Ducanator - Ducat to platinum pricing ratios {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
+
     "app.tools.ducanator.meta.description": "Best Ducats/platinum ratio across all items, find the best offer, buy the best items. Ducanator providing hourly and daily data.",
     "app.tools.ducanator.header": "Ducanator",
     "app.tools.ducanator.dayAgo": "Day",
@@ -502,6 +559,7 @@
     "app.tools.ducanator.sort.position_week": "Week",
     "app.tools.ducanator.sort.position_month": "Month",
     "app.profile.title": "Profile - {username} | Orders",
+
     "app.profile.statistics.title": "Profile - {username} | Transactions",
     "app.profile.achievements.title": "Profile - {username} | Achievements",
     "app.profile.reputation.title": "Profile - {username} | Reputation",
@@ -551,6 +609,7 @@
     "app.reviews.show": "Show",
     "app.review.hidden": "Hidden",
     "app.settings.title": "Settings",
+
     "app.settings.header": "Settings",
     "app.settings.tabs.verification": "Verification",
     "app.settings.tabs.subscription": "Patronage",
@@ -671,6 +730,7 @@
     "app.settings.automation.after": "after",
     "app.settings.automation.since": "since the last status change.",
     "app.im.title": "Messages",
+
     "app.im.header": "Messages",
     "app.im.tabs.chats": "Chats",
     "app.im.tabs.ignoreList": "Ignore List",
@@ -690,7 +750,9 @@
     "app.im.ignore.lastSeen": "Last seen:",
     "app.im.ignore.button.remove": "Remove",
     "app.im.ignore.empty": "Ignore list is empty",
+
     "app.auth.title": "Authorization | Warframe Market",
+
     "app.auth.header": "Authorization",
     "app.auth.signIn.title": "Sign In | Warframe Market",
     "app.auth.signIn.header": "Sign In",
@@ -719,6 +781,7 @@
     "app.auth.register.passwordConfirmPlaceholder": "Your password",
     "app.auth.register.joinNow": "Join now",
     "app.contacts.title": "Contact Us | Warframe Market",
+
     "app.contacts.header": "Contact Us",
     "app.contacts.socialNetworks": "In social networks",
     "app.contacts.socialNetworks.hint": "*Discord is preferable ;)",
@@ -737,8 +800,10 @@
     "app.contacts.milhail": "Milhail",
     "app.contacts.wisp": "--OTC--Wisp.VE",
     "app.lookingFor.title": "Looking for | Warframe Market",
+
     "app.lookingFor.header": "Looking for",
     "app.tos.title": "Terms of Service | Warframe Market",
+
     "app.tos.header": "Terms of Service",
     "app.tos.trading": "Trading",
     "app.tos.trading.listings": "Listings",
@@ -799,6 +864,7 @@
     "app.tos.pwaMobileApp.pwa": "PWA refers to Progressive Web Application, which is a mobile friendly way to access all the features of the website.{br}PWA is enabled for warframe.market. You can check pinned messages in our #android-ios-apps channel in the warframe.market {discordLink} server on how to add warframe.market PWA to your phone.{br}This will give you access to your notifications (Android devices only), all your listings and speedy access to the market on your mobile screen.",
     "app.tos.pwaMobileApp.mobile": "There is no official mobile app for warframe.market. Any payments made to any third-party application or ads shown on any app are not connected with warframe.market. The warframe.market moderation team does not provide support for any third-party apps.",
     "app.faq.title": "F.A.Q. | Warframe Market",
+
     "app.faq.header": "F.A.Q.",
     "app.faq.tableOfContents": "Table of contents",
     "app.faq.header.general": "General",
@@ -834,6 +900,7 @@
     "app.faq.enable_notifications.firefox.title": "For firefox browser:",
     "app.faq.enable_notifications.firefox.description": "1. On the top left corner of your browser, right before the address bar, click on the information icon -> {infoIcon}{br}2. Click `Preferences`{br}3. Click Notifications settings{br}4. Find warframe.market{br}5. Switch status to `Allow`",
     "app.privacy.title": "Privacy | Warframe Market",
+
     "app.privacy.header": "Privacy",
     "app.privacy.accessInfo.content": "You have the right to request that the company disclose certain information to you about our collection and use of your personal information over the past 12 months. Once we receive and confirm your verifiable consumer request (as described in the section “Exercising Access, Data Portability, and Deletion Rights”), we will disclose to you:",
     "app.privacy.accessInfo.disclose.ourPurpose": "Our business or commercial purpose for collecting or selling that personal information.",
@@ -943,8 +1010,10 @@
     "app.privacy.sharingInfo.title": "Sharing Personal Information",
     "app.privacy.supportEmail": "support@warframe.market",
     "app.apiDocs.title": "API Documentation | Warframe Market",
+
     "app.apiDocs.header": "Documentation",
     "app.timeRange.48hours": "48 Hours",
+
     "app.timeRange.90days": "90 Days",
     "app.order.bought": "Bought",
     "app.order.sold": "Sold",
@@ -985,6 +1054,7 @@
     "app.order.clipboard.sell.pl": "sprzedaj",
     "app.order.clipboard.template.pl": "/w {ingameName} Hej! Chce {action}: {itemName} {modRank, select, null {} other {(rank {modRank}) }}za {price} platyny. (warframe.market)",
     "app.placeOrder.bigButton": "Place order",
+
     "app.placeOrder.header": "Place order",
     "app.placeOrder.orderType": "Order Type",
     "app.placeOrder.itemName": "Item Name",
@@ -1001,6 +1071,7 @@
     "app.placeOrder.success": "Order Placed:",
     "app.placeOrder.visibility": "Initial visibility:",
     "app.elements.heat": "Heat",
+
     "app.elements.impact": "Impact",
     "app.elements.electricity": "Electricity",
     "app.elements.magnetic": "Magnetic",
@@ -1009,6 +1080,7 @@
     "app.elements.cold": "Cold",
     "app.elements.any": "Any",
     "app.editOrder.header": "Edit order",
+
     "app.editOrder.top.sell": "Top 5 sell orders",
     "app.editOrder.top.sell.maxed": "Top 5 sell orders [maxed Rank]",
     "app.editOrder.top.buy": "Top 5 buy orders",
@@ -1028,6 +1100,7 @@
     "app.editOrder.close": "Close",
     "app.editOrder.success": "Order updated:",
     "app.statistics.noData": "No data available",
+
     "app.statistics.priceChart": "Price Chart",
     "app.statistics.volume": "Volume",
     "app.statistics.platinum": "Platinum",
@@ -1046,6 +1119,7 @@
     "app.statistics.legend.smaPrice": "SMA",
     "app.statistics.legend.averagePrice": "Average",
     "app.subtype.any": "Any",
+
     "app.subtype.radiant": "Radiant",
     "app.subtype.intact": "Intact",
     "app.subtype.flawless": "Flawless",
