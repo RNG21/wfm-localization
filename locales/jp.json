@@ -250,9 +250,9 @@
     "app.auctions.search.lich.meta.description.ephemeraOnly": "warframe.marketで{ephemeraName}を売買する。 | 最高価格: {minPrice}プラチナ ⬌ 最低価格: {maxPrice}プラチナ | 総注文数: {auctionsCount}.",
     "app.auctions.search.lich.meta.description.ephemeraOnly.noPrices": "warframe.marketで{ephemeraName}を売買する。まだ{itemName}のオークションはありません。一番最初に作成しましょう！",
 
-    "app.auctions.search.lich.title.elementOnly": "{elementName}ダメージのクバ・リッチ一覧 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
-    "app.auctions.search.lich.meta.description.elementOnly": "{elementName}ダメージのクバ・リッチを売買する。 | 最高価格: {minPrice}プラチナ ⬌ 最低価格: {maxPrice}プラチナ | 総注文数: {auctionsCount}",
-    "app.auctions.search.lich.meta.description.elementOnly.noPrices": "{elementName}ダメージのクバ・リッチを売買する。まだ{itemName}のオークションはありません。一番最初に作成しましょう！",
+    "app.auctions.search.lich.title.elementOnly": "{elementName}属性のクバ・リッチ一覧 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
+    "app.auctions.search.lich.meta.description.elementOnly": "{elementName}属性のクバ・リッチを売買する。 | 最高価格: {minPrice}プラチナ ⬌ 最低価格: {maxPrice}プラチナ | 総注文数: {auctionsCount}",
+    "app.auctions.search.lich.meta.description.elementOnly.noPrices": "{elementName}属性のクバ・リッチを売買する。まだ{itemName}のオークションはありません。一番最初に作成しましょう！",
 
     "app.auctions.search.lich.meta.tags": "リッチ,オークション,クバ・リッチ",
 
@@ -265,9 +265,9 @@
     "app.auctions.search.sister.meta.description.ephemeraOnly": "warframe.marketで{ephemeraName}を売買する。 | 最高価格: {minPrice}プラチナ ⬌ 最低価格: {maxPrice}プラチナ | 総注文数: {auctionsCount}.",
     "app.auctions.search.sister.meta.description.ephemeraOnly.noPrices": "warframe.marketで{ephemeraName}を売買する。まだ{itemName}のオークションはありません。一番最初に作成しましょう！",
 
-    "app.auctions.search.sister.title.elementOnly": "{elementName}ダメージのParvosシスターの一覧 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
-    "app.auctions.search.sister.meta.description.elementOnly": "{elementName}ダメージのParvosシスターを売買する。 | 最高価格: {minPrice}プラチナ ⬌ 最低価格: {maxPrice}プラチナ | 総注文数: {auctionsCount}",
-    "app.auctions.search.sister.meta.description.elementOnly.noPrices": "{elementName}ダメージのParvosシスターを売買する。まだ{itemName}のオークションはありません。一番最初に作成しましょう！",
+    "app.auctions.search.sister.title.elementOnly": "{elementName}属性のParvosシスターの一覧 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
+    "app.auctions.search.sister.meta.description.elementOnly": "{elementName}属性のParvosシスターを売買する。 | 最高価格: {minPrice}プラチナ ⬌ 最低価格: {maxPrice}プラチナ | 総注文数: {auctionsCount}",
+    "app.auctions.search.sister.meta.description.elementOnly.noPrices": "{elementName}属性のParvosシスターを売買する。まだ{itemName}のオークションはありません。一番最初に作成しましょう！",
 
     "app.auctions.search.sister.meta.tags": "シスター,オークション,Parvosシスター",
 
@@ -279,7 +279,7 @@
 
     "app.auctions.search.nemesis.label.quirk": "性格",
     "app.auctions.search.nemesis.placeholder.quirk": "すべて",
-    "app.auctions.search.nemesis.label.element": "ダメージタイプ",
+    "app.auctions.search.nemesis.label.element": "属性",
     "app.auctions.search.nemesis.label.damage": "ダメージボーナス",
     "app.auctions.search.nemesis.label.ephemera": "エフェメラ",
     "app.auctions.search.nemesis.placeholder.ephemera.any": "すべて",
