@@ -223,7 +223,7 @@
     "app.auctions.tips.auctionType.buyout.title": "即決価格あり",
     "app.auctions.tips.auctionType.buyout": " - 即決価格があります。",
     "app.auctions.tips.auctionType.sellOrder.title": "売り注文",
-    "app.auctions.tips.auctionType.sellOrder": " - 単なる売り注文であり、オークションではなく、入札もありません。",
+    "app.auctions.tips.auctionType.sellOrder": " - 単なる売り注文であり、オークションではなく、入札することもできません。",
 
     "app.auctions.alert.reminder": "It is recommended to {reminderLink}, in order to be always up to date with your auctions.",
     "app.auctions.alert.reminder.link": "デスクトップ通知を有効にする",
